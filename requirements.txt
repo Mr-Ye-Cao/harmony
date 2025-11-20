@@ -1,0 +1,4 @@
+openai-harmony
+python-dotenv
+requests
+pydantic

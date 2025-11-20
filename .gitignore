@@ -73,3 +73,7 @@ docs/_build/
 
 # Avoid ignoring shadcn utils
 !demo/harmony-demo/src/lib
+
+# Environment variables
+.env
+.env.local
